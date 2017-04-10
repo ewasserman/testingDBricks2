@@ -3,3 +3,7 @@
 
 // COMMAND ----------
 
+val x = (1 to 100).foreach(println)
+
+// COMMAND ----------
+
